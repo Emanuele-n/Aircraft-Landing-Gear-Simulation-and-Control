@@ -15,8 +15,8 @@ The controlled variable are the elevators, the flaps and the active suspension o
 Moreover, the two additional inputs are relative to the brakes of the rear and the front wheels
 
 ## Documentation
-A detailed report of the project <br/>
-The presentation we gave
+A detailed [report](Vehicle_Systems_Dynamics.pdf) of the project <br/>
+The [presentation](Slides.zip) we gave
 
 ## Resources used
 [Simulink](https://www.mathworks.com/products/simulink.html)
